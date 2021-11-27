@@ -1,7 +1,0 @@
-
-COMEPLETE 1. There should be an unlimited amount of each chip type
-          - Restructure so chip object is created on click
-             rather than there always being a chip object
-          - Chip objects should only exist in the betting box
-
- COMPLETE - Counter displaying total amount in betting box
